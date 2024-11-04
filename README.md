@@ -73,4 +73,4 @@ Big thanks to all the talented and patient contributors who’ve made this journ
 
 To all my fellow contributors and mentors: you made this experience unforgettable (and way less intimidating). And to Google: thanks for creating such a wonderful program that teaches so much.
 
-Here’s to facing our fears, learning, and growing together!*
+Here’s to facing our fears, learning, and growing together!
