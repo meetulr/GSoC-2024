@@ -1,16 +1,14 @@
 
 # GSoC-2024
 
-
 ## Project Links
-**Dashboard**: *[Tag Management System | Google Summer of Code](https://summerofcode.withgoogle.com/programs/2024/projects/9GWfCSa3)* <br />
-**Mentors**: *[@rishav-jha-mech (Rishav Jha)](https://github.com/rishav-jha-mech), [@beingnoble03 (Noble Mittal)](https://github.com/beingnoble03), [@Nitya-Pasrija (Nitya Pasrija)](https://github.com/Nitya-Pasrija)* <br />
-**Repositories**: *[talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin/tree/develop), [talawa-api](https://github.com/PalisadoesFoundation/talawa-api/tree/develop)* <br />
-**Organization**: *[The Palisadoes Foundation](https://www.palisadoes.org) - [Github](https://github.com/PalisadoesFoundation)*
 
+**Dashboard**: *[Tag Management System | Google Summer of Code](https://summerofcode.withgoogle.com/programs/2024/projects/9GWfCSa3)* <br />
+**Organization**: *[The Palisadoes Foundation](https://www.palisadoes.org) - [Github](https://github.com/PalisadoesFoundation)* <br />
+**Repositories**: *[talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin/tree/develop), [talawa-api](https://github.com/PalisadoesFoundation/talawa-api/tree/develop)* <br />
+**Mentors**: *[@rishav-jha-mech (Rishav Jha)](https://github.com/rishav-jha-mech), [@beingnoble03 (Noble Mittal)](https://github.com/beingnoble03), [@Nitya-Pasrija (Nitya Pasrija)](https://github.com/Nitya-Pasrija)*
 
 ## Project Summary
-
 
 This project introduces a `userTag` management system into Talawa’s community management platform, significantly enhancing administrators' ability to oversee and interact with community members. As a core addition to the admin portal, this feature enables streamlined management of tags through a comprehensive set of CRUD (Create, Read, Update, Delete) operations, allowing administrators to create specific tags for classifying community members and activities.
 
@@ -65,6 +63,7 @@ Ultimately, Talawa’s enhanced tag management system empowers administrators wi
 ---
 
 ## Thoughts
+
 Honestly, signing up for Google Summer of Code (GSoC) was a bit daunting. When I first got into open source, I was just hoping to get comfortable enough with code that I wouldn’t feel like an imposter every other day!
 
 The Palisadoes Foundation ended up being the perfect starting point. It was my gateway into open source, and with the support of the amazing folks there, I finally took the plunge and applied for GSoC. Spoiler alert: I survived, and it was totally worth it. [Meet Meetul Rathore – The Palisadoes Foundation](https://www.palisadoes.org/news/2024/09/02/meet-meetul-rathore/)
