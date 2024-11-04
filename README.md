@@ -8,7 +8,6 @@
 **Repositories**: *[talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin/tree/develop), [talawa-api](https://github.com/PalisadoesFoundation/talawa-api/tree/develop)* <br />
 **Organization**: *[The Palisadoes Foundation](https://www.palisadoes.org) - [Github](https://github.com/PalisadoesFoundation)*
 
----
 
 ## Project Summary
 
