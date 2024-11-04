@@ -1,7 +1,7 @@
 
 # GSoC-2024
 
-## About Project
+## Project Links
 **Dashboard**: *[Tag Management System | Google Summer of Code](https://summerofcode.withgoogle.com/programs/2024/projects/9GWfCSa3)* <br />
 **Mentors**: *[@rishav-jha-mech (Rishav Jha)](https://github.com/rishav-jha-mech), [@beingnoble03 (Noble Mittal)](https://github.com/beingnoble03), [@Nitya-Pasrija (Nitya Pasrija)](https://github.com/Nitya-Pasrija)* <br />
 **Repositories**: *[talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin/tree/develop), [talawa-api](https://github.com/PalisadoesFoundation/talawa-api/tree/develop)* <br />
