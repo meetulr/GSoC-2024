@@ -1,13 +1,14 @@
 
 # GSoC-2024
 
+
 ## Project Links
 **Dashboard**: *[Tag Management System | Google Summer of Code](https://summerofcode.withgoogle.com/programs/2024/projects/9GWfCSa3)* <br />
 **Mentors**: *[@rishav-jha-mech (Rishav Jha)](https://github.com/rishav-jha-mech), [@beingnoble03 (Noble Mittal)](https://github.com/beingnoble03), [@Nitya-Pasrija (Nitya Pasrija)](https://github.com/Nitya-Pasrija)* <br />
 **Repositories**: *[talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin/tree/develop), [talawa-api](https://github.com/PalisadoesFoundation/talawa-api/tree/develop)* <br />
 **Organization**: *[The Palisadoes Foundation](https://www.palisadoes.org) - [Github](https://github.com/PalisadoesFoundation)*
 
-<br />
+---
 
 ## Project Summary
 
@@ -18,11 +19,11 @@ Beyond basic CRUD functionalities, the `userTag` feature includes sophisticated 
 
 Ultimately, Talawa’s enhanced tag management system empowers administrators with a powerful and intuitive toolset for fostering active, well-organized, and engaged communities. By segmenting users and applying targeted engagement strategies, admins can optimize communication, promote relevant events or content, and drive stronger, more personal connections among community members. This new feature elevates the Talawa platform’s ability to support vibrant, organized community ecosystems with a focus on user-centric management and enhanced community insights.
 
-<br />
+---
 
 ## Code
 
-### Talawa-admin:
+### Talawa-admin
 1. Implement Tags UI:
 	- **Issue**: *[link](https://github.com/PalisadoesFoundation/talawa-admin/issues/2037)*
 	- **Pr**: [link](https://github.com/PalisadoesFoundation/talawa-admin/pull/2175)
@@ -62,7 +63,7 @@ Ultimately, Talawa’s enhanced tag management system empowers administrators wi
 	- **Issue**: [link](https://github.com/PalisadoesFoundation/talawa-api/issues/2630)
 	- **Pr**: [link](https://github.com/PalisadoesFoundation/talawa-api/pull/2635)
 
-<br />
+---
 
 ## Thoughts
 Honestly, signing up for Google Summer of Code (GSoC) was a bit daunting. When I first got into open source, I was just hoping to get comfortable enough with code that I wouldn’t feel like an imposter every other day!
