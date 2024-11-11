@@ -40,6 +40,9 @@ Ultimately, Talawa’s enhanced tag management system empowers administrators wi
 7. Filtering and Sorting:
 	- **Issue**: [link](https://github.com/PalisadoesFoundation/talawa-admin/issues/2395)
 	- **Pr**: [link](https://github.com/PalisadoesFoundation/talawa-admin/pull/2398)
+8. Listing all the tags assigned to a user:
+        - **Issue**: [link](https://github.com/PalisadoesFoundation/talawa-admin/issues/2424)
+        - **Pr**: [link](https://github.com/PalisadoesFoundation/talawa-admin/pull/2425)
 
 ### Talawa-api
 1. Add UserTags connection:
